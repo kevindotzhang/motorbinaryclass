@@ -1,0 +1,375 @@
+image_path,label
+data/raw/old/Motor_Small motor_005.jpg,small
+data/raw/old/Motor_Small motor_011.jpg,mixed
+data/raw/old/Motor_Small Motor_039.jpg,small
+data/raw/old/Motor_Small copper stator_005.jpg,small
+data/raw/old/Motor_Small copper stator_004.jpg,small
+data/raw/old/Motor_Small Motor_038.jpg,small
+data/raw/old/Motor_Small motor_010.jpg,mixed
+data/raw/old/Motor_Small motor_004.jpg,small
+data/raw/old/Motor_Small motor_012.jpg,large
+data/raw/old/Motor_Small motor_006.jpg,small
+data/raw/old/Motor_Small copper stator_006.jpg,small
+data/raw/old/Motor_Small copper stator_007.jpg,small
+data/raw/old/Motor_Small motor_007.jpg,small
+data/raw/old/Motor_Small motor_013.jpg,small
+data/raw/old/Motor_Small motor_017.jpg,small
+data/raw/old/Motor_Small motor_003.jpg,small
+data/raw/old/Motor_Small copper stator_003.jpg,small
+data/raw/old/Motor_Small copper stator_002.jpg,small
+data/raw/old/Motor_Small motor_002.jpg,small
+data/raw/old/Motor_Small motor_016.jpg,small
+data/raw/old/Motor_Small motor_028.jpg,small
+data/raw/old/Motor_Small motor_014.jpg,mixed
+data/raw/old/Motor_Small copper stator_001.jpg,small
+data/raw/old/Motor_Small motor_015.jpg,mixed
+data/raw/old/Motor_Small motor_001.jpg,small
+data/raw/old/Motor_Small motor_029.jpg,small
+data/raw/old/Motor_Large motor_019.jpg,large
+data/raw/old/Motor_Large motor_025.jpg,large
+data/raw/old/Motor_Large motor_024.jpg,large
+data/raw/old/Motor_Large motor_018.jpg,large
+data/raw/old/Motor_Large copper armature_001.jpg,large
+data/raw/old/Motor_Large copper armature_003.jpg,large
+data/raw/old/Motor_Large copper armature_002.jpg,large
+data/raw/old/Motor_Large copper armature_006.jpg,large
+data/raw/old/Motor_Small Motor_048.jpg,small
+data/raw/old/Motor_Large motor_023.jpg,large
+data/raw/old/Motor_Small Motor_049.jpg,small
+data/raw/old/Motor_Large motor_022.jpg,large
+data/raw/old/Motor_Large copper armature_007.jpg,large
+data/raw/old/Motor_Large copper armature_005.jpg,large
+data/raw/old/Motor_Large motor_020.jpg,large
+data/raw/old/Motor_Large motor_008.jpg,large
+data/raw/old/Motor_Large motor_009.jpg,large
+data/raw/old/Motor_Large motor_021.jpg,large
+data/raw/old/Motor_Large copper armature_004.jpg,large
+data/raw/old/Motor_Small Motor_047.jpg,small
+data/raw/old/Motor_Large motor_010.jpg,large
+data/raw/old/Motor_Large copper stator_002.jpg,large
+data/raw/old/Motor_Large motor_004.jpg,large
+data/raw/old/Shredded material_Zorba large_004.jpg,mixed
+data/raw/old/Shredded material_Zorba large_005.jpg,mixed
+data/raw/old/Motor_Large copper stator_003.jpg,large
+data/raw/old/Motor_Large motor_005.jpg,large
+data/raw/old/Motor_Large motor_011.jpg,large
+data/raw/old/Motor_Small Motor_046.jpg,small
+data/raw/old/Motor_Small copper armature_001.jpg,small
+data/raw/old/Motor_Small copper armature_003.jpg,small
+data/raw/old/Motor_Small Motor_044.jpg,small
+data/raw/old/Motor_Large motor_007.jpg,large
+data/raw/old/Motor_Large copper stator_001.jpg,large
+data/raw/old/Motor_Large motor_013.jpg,large
+data/raw/old/Shredded material_Zorba large_007.jpg,mixed
+data/raw/old/Shredded material_Zorba large_006.jpg,mixed
+data/raw/old/Motor_Large motor_012.jpg,large
+data/raw/old/Motor_Large motor_006.jpg,large
+data/raw/old/Motor_Small Motor_045.jpg,large
+data/raw/old/Motor_Small copper armature_002.jpg,small
+data/raw/old/Motor_Small copper armature_006.jpg,small
+data/raw/old/Motor_Large copper stator_004.jpg,large
+data/raw/old/Motor_Large motor_002.jpg,large
+data/raw/old/Motor_Large motor_016.jpg,large
+data/raw/old/Motor_Small Motor_041.jpg,mixed
+data/raw/old/Shredded material_Zorba large_002.jpg,mixed
+data/raw/old/Shredded material_Zorba large_003.jpg,mixed
+data/raw/old/Motor_Small Motor_040.jpg,small
+data/raw/old/Motor_Large motor_017.jpg,large
+data/raw/old/Motor_Large copper stator_005.jpg,large
+data/raw/old/Motor_Large motor_003.jpg,large
+data/raw/old/Motor_Small copper armature_007.jpg,small
+data/raw/old/Motor_Small copper armature_005.jpg,small
+data/raw/old/Motor_Large motor_015.jpg,large
+data/raw/old/Motor_Large motor_001.jpg,large
+data/raw/old/Motor_Large copper stator_007.jpg,large
+data/raw/old/Motor_Small Motor_042.jpg,small
+data/raw/old/Shredded material_Zorba large_001.jpg,mixed
+data/raw/old/Motor_Small Motor_043.jpg,small
+data/raw/old/Motor_Large copper stator_006.jpg,large
+data/raw/old/Motor_Large motor_014.jpg,large
+data/raw/old/Motor_Small copper armature_004.jpg,small
+data/raw/old/Motor_Small motor_024.jpg,small
+data/raw/old/Motor_Small motor_030.jpg,small
+data/raw/old/Motor_Small motor_018.jpg,mixed
+data/raw/old/Motor_Small motor_019.jpg,mixed
+data/raw/old/Motor_Small motor_031.jpg,mixed
+data/raw/old/Motor_Small motor_025.jpg,small
+data/raw/old/Motor_Small motor_033.jpg,large
+data/raw/old/Motor_Small motor_027.jpg,small
+data/raw/old/Motor_Small motor_026.jpg,small
+data/raw/old/Motor_Small motor_032.jpg,small
+data/raw/old/Motor_Small Motor_036.jpg,small
+data/raw/old/Motor_Small motor_022.jpg,small
+data/raw/old/Motor_Small motor_023.jpg,small
+data/raw/old/Motor_Small Motor_037.jpg,small
+data/raw/old/Motor_Small motor_009.jpg,mixed
+data/raw/old/Motor_Small motor_021.jpg,mixed
+data/raw/old/Motor_Small motor_035.jpg,mixed
+data/raw/old/Motor_Small motor_034.jpg,mixed
+data/raw/old/Motor_Small motor_020.jpg,small
+data/raw/old/Motor_Small motor_008.jpg,mixed
+data/raw/new/DC armature/Motor-Large-copper-armature-1_jpg.rf.93d22bb4616a9fc39229e9dc2a7f5235.jpg,large
+data/raw/new/DC armature/Motor-Large-copper-armature-6_jpg.rf.84f51be0d97e5037b77e20c6a26cc04a.jpg,large
+data/raw/new/DC armature/Motor-Large-copper-armature-4_jpg.rf.7ae5164f8d3149f026c595f348f858b4.jpg,large
+data/raw/new/DC armature/Motor-Large-copper-armature-2_jpg.rf.19f272bc16cfc65ba7cf38176187c06d.jpg,large
+data/raw/new/DC armature/Motor-Large-copper-armature-3_jpg.rf.a26f4d36885f939c9a36bbc1cb41cee1.jpg,large
+data/raw/new/DC armature/Motor-Large-copper-armature-5_jpg.rf.1dac38360fdf13faadeb9099b97f1fbb.jpg,large
+data/raw/new/DC armature/Motor-Large-copper-armature7_jpg.rf.f152882fecd0bf7b6cb2f3c9519ce028.jpg,large
+data/raw/new/Small motor/Motor_Small-motor_023_jpg.rf.d9017b6aac9e05141780403f78ed47f7.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_054_jpg.rf.af61500f1c4d315abf2f240f250e4b99.jpg,mixed
+data/raw/new/Small motor/Motor_Small-motor_032_jpg.rf.8802a3838b6a2da3dccc818556ffa565.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_035_jpg.rf.a3ca494f7569ecca2d35568deacbac43.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_058_jpg.rf.3a2b16e982a62e1707069b5556dbb190.jpg,mixed
+data/raw/new/Small motor/Motor_Small-motor_068_jpg.rf.452ee5d770c03b37e51d06b2eb0cb437.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_025_jpg.rf.c301c54f77488acf631bd51d07a8352a.jpg,small
+data/raw/new/Small motor/Motor-Small-motor-4_jpg.rf.88bdd213e7eb0b59425679c6aa673284.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_042_jpg.rf.47fed015f5b5416960884d695e200840.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_086_jpg.rf.f1b61069600a67d5c7ce0ff4a912d011.jpg,mixed
+data/raw/new/Small motor/Motor_Small-motor_044_jpg.rf.3ed8d46c772ca6466f9a3045cc0b0519.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_033_jpg.rf.9d84d38d5bf3f1b687512652c8aa74fc.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_016_jpg.rf.845eea3873b0eeccfe1f997c6e18479a.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_026_jpg.rf.533a2bbd036687ddffd12ffc1e48c4a3.jpg,small
+data/raw/new/Small motor/Motor-Small-motor-3_jpg.rf.3b880c2aed3b00c0ad4385949c158631.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_100_jpg.rf.f95fd9cca2c1f889473733487dd77afe.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_052_jpg.rf.827e70295d7b830d10775fd1f9dc2f7a.jpg,mixed
+data/raw/new/Small motor/Motor_Small-motor_011_jpg.rf.658b6b9c307ef37945144b5603d17f63.jpg,mixed
+data/raw/new/Small motor/Motor_Small-motor_075_jpg.rf.751c1dde44d55148c57ba2934bed390c.jpg,mixed
+data/raw/new/Small motor/Motor_Small-motor_074_jpg.rf.537081b30dfcf1f59cfdc103366c45c3.jpg,mixed
+data/raw/new/Small motor/Motor_Small-motor_090_jpg.rf.ad6164a46c9b63c856915a9f332da236.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_077_jpg.rf.5d980244a470bb09e308ee4bc7311aac.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_015_jpg.rf.78f310ea320f0e96de4d55667acefe00.jpg,mixed
+data/raw/new/Small motor/Motor_Small-motor_038_jpg.rf.3c7eeeb69730a112173fb1616fc62c28.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_085_jpg.rf.b364672c423e4f6b754556a281dfd623.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_031_jpg.rf.64de9c169e396b05b4af459d4083187a.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_053_jpg.rf.c30a7b3104cf2979dbfab206f466cf44.jpg,mixed
+data/raw/new/Small motor/Motor_Small-motor_094_jpg.rf.016c816151739cc7eec22b8a2df0eec4.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_099_jpg.rf.a2c2ebd19d5d4c1405f4040482b1339d.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_062_jpg.rf.48d623049c54e808b24ca38431785872.jpg,mixed
+data/raw/new/Small motor/Motor-Small-motor-1_jpg.rf.b2fdddccaebc4c7e2ac1bf5c3a74bad0.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_020_jpg.rf.00476a561b9128794c77dadb33de9605.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_030_jpg.rf.6782dbe0c4b3a97dc4a6677b6a3ca6bc.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_036_jpg.rf.f2203e91ebe047b560ac457ea89aadec.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_072_jpg.rf.762c6689d84310b0429043a34d9b9f32.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_043_jpg.rf.55dbb5e1418a3736be7ef218a6d76219.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_047_jpg.rf.e46cfbc4253f387e037447a9b65b3816.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_071_jpg.rf.b7b9721d25f5db48ca52b2fa1c9df503.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_023_jpg.rf.fd4c2b360911c3431fab33e6f6addb26.jpg,large
+data/raw/new/Small motor/Motor-Small-motor-2_jpg.rf.1d60dce104135d40e292a5578cf1c036.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_028_jpg.rf.52edf99b3539494d08fd90b1cf9706d7.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_076_jpg.rf.8fde56650f86087de0c80d7d0e24961e.jpg,mixed
+data/raw/new/Small motor/Motor_Small-motor_056_jpg.rf.8be182a3ac92191a8189a6f4e5037dcb.jpg,mixed
+data/raw/new/Small motor/Motor_Small-motor_022_jpg.rf.7b0b6d944188f262043bdecf11d97468.jpg,large
+data/raw/new/Small motor/Motor_Small-motor_055_jpg.rf.843dbff672978398b20d757034a59815.jpg,mixed
+data/raw/new/Small motor/Motor_Small-motor_089_jpg.rf.a4d3acabdd503cba1cea1045f56844d1.jpg,mixed
+data/raw/new/Small motor/Motor_Small-motor_060_jpg.rf.5ad104190ae8e1f91a916e8cf2b5cf5a.jpg,mixed
+data/raw/new/Small motor/Motor_Small-motor_096_jpg.rf.08f1d859157f2d266598a9d641c3d9e0.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_063_jpg.rf.4fef012fc88c0898b560b9631a798cd6.jpg,mixed
+data/raw/new/Small motor/Motor_Small-motor_078_jpg.rf.2bf96c1ac8635b6cc9965cd52e94327e.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_067_jpg.rf.af31b763194819abb16fac23b088c8be.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_017_jpg.rf.6cd374b7bb21f7428611af5c36cd797b.jpg,mixed
+data/raw/new/Small motor/Motor_Small-motor_037_jpg.rf.c3550f6aa3d6e455306673bf5b5e3fd7.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_088_jpg.rf.60b83c6420d14aad4d8c289d2aa3e9d5.jpg,mixed
+data/raw/new/Small motor/Motor_Small-motor_014_jpg.rf.273dceeef3c63846a49204a31c69c136.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_018_jpg.rf.b323ea84afdac8f4ecd6bdd1b0185adf.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_040_jpg.rf.de0f3e377c0679836ad0801b0c53eb23.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_049_jpg.rf.8094f10f5469f9bbfc0215aaf6a06236.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_019_jpg.rf.a4404c9599d2ba8b97a531cbc0e1ab48.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_079_jpg.rf.f62c441ac31e201c10788c9a0b5dbbda.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_066_jpg.rf.46a503583e31d017b9e0e47ff8b7112f.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_073_jpg.rf.b25de851f0d460b096a175ac2c4eb3d7.jpg,mixed
+data/raw/new/Small motor/Motor_Small-motor_045_jpg.rf.667749c3b1e10339f9c8f802d4e0dfd1.jpg,large
+data/raw/new/Small motor/Motor_Small-motor_091_jpg.rf.49920c037d88071f8eb62a3ec46f57c7.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_081_jpg.rf.850f69bec6b91e5c0a4bb7539d7616a0.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_064_jpg.rf.c656474b8e4c50748075f770d80bcd8e.jpg,mixed
+data/raw/new/Small motor/Motor_Small-motor_082_jpg.rf.f3def68663ea0a9813876f896f925b78.jpg,mixed
+data/raw/new/Small motor/Motor_Small-motor_095_jpg.rf.e8fb4f645f80c091c96fa67ad03b231e.jpg,small
+data/raw/new/Small motor/Motor-Small-motor-6_jpg.rf.0e7326efb5bb91112a599d6ad50a0249.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_050_jpg.rf.39dd10156a16bbf2fb5f9fdc403278dd.jpg,mixed
+data/raw/new/Small motor/Motor_Small-motor_083_jpg.rf.7d549ed2cd44ed5f78577f7cce8e0b24.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_034_jpg.rf.6ae58d466f9c1ecaa4b8752b67b00927.jpg,mixed
+data/raw/new/Small motor/Motor_Small-motor_057_jpg.rf.66afb0c0ad6537f18c73553be313f64e.jpg,mixed
+data/raw/new/Small motor/Motor-Small-motor-5_jpg.rf.88a1aaa704308f55846bc24050c53122.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_024_jpg.rf.64187c588d267dbe19a74bea2dc0e5b9.jpg,mixed
+data/raw/new/Small motor/Motor_Small-motor_051_jpg.rf.baf55982d7f0a648f3329e9e9df8990b.jpg,mixed
+data/raw/new/Small motor/Motor_Small-motor_027_jpg.rf.c5454a5782d6ea4839d193490ea12586.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_080_jpg.rf.6b819244a6480529b6ba43e86479f698.jpg,mixed
+data/raw/new/Small motor/Motor-Small-motor-7_jpg.rf.16fb5ffeec07db04b7a8465c3f1d1f6c.jpg,small
+data/raw/new/Small motor/Motor_Small-motor_070_jpg.rf.a71ad95f78beea4433ff5472c84b21ac.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_047_jpg.rf.395de0060a9fc9c216db733a97f4f513.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_057_jpg.rf.6837a20086f0fdbe02c5b8819e95b3ed.jpg,small
+data/raw/new/Alternator stator small/Motor-Small-copper-stator-3_jpg.rf.74f87eb901fd09303855f5675a772ead.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_008_jpg.rf.7f78d32b93bdeff3ffc972d1ebd97738.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_041_jpg.rf.cb1d1179156cfd4ef49822a6f3657197.jpg,mixed
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_012_jpg.rf.2bbc486d49bd0c863cf595e1718965f7.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_020_jpg.rf.7ff7521d603f0bb48632860b02d90573.jpg,mixed
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_054_jpg.rf.4a581b3a89f530715eddd1658b52a594.jpg,mixed
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_013_jpg.rf.75e980c2ecc9ac2780c1c181daeb6ebb.jpg,mixed
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_032_jpg.rf.72269f69f3615851acf75229c853578f.jpg,mixed
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_040_jpg.rf.4cf3f8fb50b2eed30aaadb5e56038917.jpg,mixed
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_024_jpg.rf.5f503983c71157ca0b3e918c33ba7fb5.jpg,mixed
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_046_jpg.rf.94bf426a95f8997a91b78a05180637c5.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_025_jpg.rf.ab9fe7fccc82427a93e728cb696ea31e.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_009_jpg.rf.870f048c2b4679033bb2f97d295861c2.jpg,mixed
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_069_jpg.rf.d670be9f448f501f04912a17a11673ab.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_030_jpg.rf.45679aba27d5b717d7a63f749b22a912.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_059_jpg.rf.0437cb7bc244ce6f805eb908891ff4bd.jpg,mixed
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_031_jpg.rf.34065bc70adf674a5ee3c1ed1d68533b.jpg,small
+data/raw/new/Alternator stator small/Motor-Small-copper-stator-7_jpg.rf.d3d82f35edb4ff07fafb84e4614030f4.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_042_jpg.rf.e5a1392ebfa79ca86c5dff477b3e98e7.jpg,mixed
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_027_jpg.rf.9a2a3a7c0582eaa10f37c4f57856867c.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_029_jpg.rf.e430842a993d1ebdc568e670af006285.jpg,mixed
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_034_jpg.rf.d0c4fd1a9041f197e92e488e2b5f89ae.jpg,mixed
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_051_jpg.rf.0786be8b7bcfd31e88eac713de7eb28d.jpg,mixed
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_061_jpg.rf.7b00942701cbf8f62db1da8e32b7d06c.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_052_jpg.rf.9d5ac8de3dd86725c47f66b6c0dc5eca.jpg,mixed
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_070_jpg.rf.12828cfb86b467257b828a1f5ccf06c1.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_033_jpg.rf.2fb44e95837903905ca88cc17604c0fd.jpg,mixed
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_011_jpg.rf.faee8a40adda655814c41a6a6a9c8aeb.jpg,mixed
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_066_jpg.rf.d5b99c018d288c7c2a2880ed85187228.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_055_jpg.rf.9c81b62b96213b100b2094a3c9b97055.jpg,small
+data/raw/new/Alternator stator small/Motor-Small-copper-stator-5_jpg.rf.bdbbcead816106964654ce846871ab57.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_048_jpg.rf.b4875f404d929781f29b531fd44ccbab.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_016_jpg.rf.d74696766928b5c42597990462b3014e.jpg,mixed
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_015_jpg.rf.b6382b6f578fe66744510046b33e5b5e.jpg,mixed
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_026_jpg.rf.ec608619a8aca95fdfdee870a0858737.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_021_jpg.rf.da757d24a4f99387585b1b192de2d7b4.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_014_jpg.rf.957f5281f256b31bda3cec54537265da.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_017_jpg.rf.b957a3b49aaede7d0c05b3c3e0b61833.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_065_jpg.rf.07cb7b27f2d37cf37ac510c65fb119b3.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_050_jpg.rf.0a662e494e3fc4215657cb36d064bd2f.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_063_jpg.rf.e8c79ed4fc408a20f7df06d4ddacd864.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_068_jpg.rf.4dea7ab0132ae69e25dc784ff3aa1b64.jpg,small
+data/raw/new/Alternator stator small/Motor-Small-copper-stator-4_jpg.rf.19a781dc4a7eb3730eb9f1ae1d1a2039.jpg,small
+data/raw/new/Alternator stator small/Motor-Small-copper-stator-6_jpg.rf.5a8fb8319f2ea1e6bbc9e6238e15e705.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_035_jpg.rf.e3f5b0ea53f75eb470ff3d53e3618bc9.jpg,mixed
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_049_jpg.rf.9161c2cd27b7c4f1428f87d02ee0d060.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_010_jpg.rf.41ed86ec36469944bd3ccc0b6a44f0d5.jpg,mixed
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_064_jpg.rf.8f239b21a16327141313b9365321255f.jpg,mixed
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_044_jpg.rf.a5b6d93514aae28fa24a9e16af681d1f.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_058_jpg.rf.4da078c195b3a3bf1837170efbc2dc2d.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_018_jpg.rf.c0193a234edd4baca870a96b219cb1bd.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_022_jpg.rf.1e101794fa35f8e9ef8a2a91be588108.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_019_jpg.rf.920d9ff10396739d960d466ce32a4efd.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_067_jpg.rf.073a2b80f3bdf76714ef01f809973e53.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_028_jpg.rf.f5bcfc13625e8ff588bafa259f2371e5.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_053_jpg.rf.ec994087259cd096fb065799e3c90afb.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_071_jpg.rf.5058b637493ac72e087dd0e2acf2c5c0.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_023_jpg.rf.c1de8515cebe2224138ac5f8b386f7d6.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_045_jpg.rf.00ebb8a83ef65fcf985b8ddcca5711fb.jpg,small
+data/raw/new/Alternator stator small/Motor-Small-copper-stator-2_jpg.rf.eea595cf0681d6f6d6f9ecce6f8ec6ac.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_056_jpg.rf.8e91cf0d678b103f5dfe305e4df35b1f.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_062_jpg.rf.16fdb5aca074c126b3fb56fa7d273dce.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_072_jpg.rf.c9097242973b62ee2dee3c747f2e438b.jpg,small
+data/raw/new/Alternator stator small/Motor-Small-copper-stator-1_jpg.rf.cc76fefb92756783eb6d5a5e1a6f9f5a.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_060_jpg.rf.f14d3440e1c53a25c49c0bfa93f83236.jpg,small
+data/raw/new/Alternator stator small/Motor_Alternator-stator-small_043_jpg.rf.49195f86c7d28bb7983e76b869db487a.jpg,mixed
+data/raw/new/Starter armature/Motor-Small-copper-armature-2_jpg.rf.6b4cf73c7247de9d961610bbd83efb86.jpg,small
+data/raw/new/Starter armature/Motor-Small-copper-armature-1_jpg.rf.f6d2a4b485825f7d416bfba538cf578d.jpg,small
+data/raw/new/Starter armature/Motor-Small-copper-armature-7_jpg.rf.0625bba9b739d936feb33ef035f59dd3.jpg,small
+data/raw/new/Starter armature/Motor-Small-copper-armature-4_jpg.rf.9000e0488c4f414a5276bcad5c8fd4b6.jpg,small
+data/raw/new/Starter armature/Motor-Small-copper-armature-5_jpg.rf.637dc2cdc5434030a967ed885577cc77.jpg,small
+data/raw/new/Starter armature/Motor-Small-copper-armature-3_jpg.rf.a0e7ec9e214e2fb6a7288c516caf2a8b.jpg,small
+data/raw/new/Starter armature/Motor-Small-copper-armature-6_jpg.rf.77d531e850f565fd42b6d16e7f6dad44.jpg,small
+data/raw/new/Large copper stator/Motor-Large-copper-stator-4_jpg.rf.d275b12a88128b335e921fe2ae2ccadd.jpg,large
+data/raw/new/Large copper stator/Motor-Large-copper-stator-2_jpg.rf.eaccbe0363602b47a7b47a9e458395ab.jpg,large
+data/raw/new/Large copper stator/Motor-Large-copper-stator-7_jpg.rf.81f9c0e8694907d14f1f90a2219ee564.jpg,large
+data/raw/new/Large copper stator/Motor-Large-copper-stator-3_jpg.rf.2b894f8362fc8990547f0e0a2cc2a1be.jpg,large
+data/raw/new/Large copper stator/Motor-Large-copper-stator-5_jpg.rf.1110a8f07d6627b7590a33f7138cd768.jpg,large
+data/raw/new/Large copper stator/Motor-Large-copper-stator6_jpg.rf.007f23178cc0e1b6469daf880660d043.jpg,large
+data/raw/new/Large copper stator/Motor-Large-copper-stator-1_jpg.rf.9f13cbacd42f43e42ad4a42a2a1af423.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_037_jpg.rf.53217d006c2e0ecaba62b825db5dbbd1.jpg,small
+data/raw/new/Large motor/Motor_Large-motor_074_jpg.rf.99a84d0c733d9782d3e517e7c8599090.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_050_jpg.rf.a10dbf1c5302b9de0727984e1e1ee0c9.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_078_jpg.rf.d2083a0befa3c1e8afeb5b30b46e547e.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_077_jpg.rf.6d96b01dc5f80d7d0d1c602d07ba7a8e.jpg,mixed
+data/raw/new/Large motor/Motor_Large-motor_070_jpg.rf.328f2c5adc2b0c533bc29bbed7541782.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_072_jpg.rf.ad9fcbd2ec4f004aa66e3479fa8d5d29.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_062_jpg.rf.7442a25d49737ee59739da7626784235.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_051_jpg.rf.10b728825260c129c93c323ac837cf92.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_088_jpg.rf.2d594c81ab5a4dd6a041602e5f69d307.jpg,mixed
+data/raw/new/Large motor/Motor-Large-motor-2_jpg.rf.71114886ed584ad738937fa5d0faa023.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_076_jpg.rf.b938bb3b8e12d8d6af68a62bd2efe92b.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_039_jpg.rf.ab9d1c91b4f809e8ecca7c3f33b4258b.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_032_jpg.rf.759720ef46aebeb02bbb8b944a540c25.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_049_jpg.rf.14908d1c58d963b54ca1d176df54007a.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_013_jpg.rf.1e0b17f6e6519ff975b0821378a60283.jpg,large
+data/raw/new/Large motor/Motor-Large-motor-4_jpg.rf.1c41308b786f7a8ec88711eb530af4f2.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_071_jpg.rf.19466a3c7cda2a2b91c9508b36697e81.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_085_jpg.rf.f0b05d8af11c68df683acb89f13a5e3c.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_023_jpg.rf.0ee0ba332c5556c5a4ee3d46e73c4776.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_030_jpg.rf.a2b128990a9d81dd8027481fb59a73ee.jpg,large
+data/raw/new/Large motor/Motor-Large-motor-6_jpg.rf.9f708b75bd4b62c51dd25f2443d8a9e8.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_029_jpg.rf.6527844cd1315ba68ac30ebd0569dc6f.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_016_jpg.rf.f4a009c619540a8baae3b30aff66513e.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_041_jpg.rf.d019667d0faf27e3187d5397adb8c292.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_018_jpg.rf.ae99b5dc2894a8d4586f57629560df8f.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_031_jpg.rf.f689abc83e5ec43d46d95cb27561ec98.jpg,large
+data/raw/new/Large motor/Motor-Large-motor-7_jpg.rf.a82fc679dc820a227493619ae6fba6f0.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_060_jpg.rf.5b6de71283e31bacca9123d93c2814cd.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_033_jpg.rf.19e1d41d611619480d2e141b9409f187.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_055_jpg.rf.600109d03e3a111e6142231b8dd006c4.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_021_jpg.rf.8e093508abbdb57ca9e08835db0a3ebd.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_027_jpg.rf.10e56c9c478357d858d5ca027352adc4.jpg,large
+data/raw/new/Large motor/Motor-Large-motor-5_jpg.rf.e8adb85aba98f8e0c9e99584fe829710.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_095_jpg.rf.f9451fee0c2c82bb4aae34005002489a.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_054_jpg.rf.3a212283f07851077b6610d01c5e9aef.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_047_jpg.rf.041bf75ae7e83c356beb36dbcb280753.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_094_jpg.rf.32130c898ec7c23405149e2d8543f64e.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_042_jpg.rf.de9424b8041b4e0d2c4c5f7706e67243.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_090_jpg.rf.829fb256eaca01940a762d9d7d05f361.jpg,mixed
+data/raw/new/Large motor/Motor_Large-motor_081_jpg.rf.3d9ee287505808cf5fc0a371312c23c4.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_069_jpg.rf.f3acae9fac2410d3655553dd83b4d2d3.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_099_jpg.rf.2b8f9e6cfa44979856db2dcbc0aaec91.jpg,mixed
+data/raw/new/Large motor/Motor_Large-motor_034_jpg.rf.6b3b6395512d87810f576ebe3ffe372f.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_038_jpg.rf.68904382f3b252fff9f305d8728937be.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_87_jpg.rf.2aca76a23552bfe23af050835a643fd0.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_066_jpg.rf.547f088416e90d04ff37106dbbda7c89.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_019_jpg.rf.e01b4b6d91c6732a7323bb4767639f0b.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_043_jpg.rf.b1344d4cdd586e2de6b4b1bbdf685fee.jpg,mixed
+data/raw/new/Large motor/Motor_Large-motor_028_jpg.rf.5e8a5016f1cf248410f17c82655ab95d.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_014_jpg.rf.701e70ac6bd43c3edcdbf0848c017959.jpg,large
+data/raw/new/Large motor/Motor-Large-motor-1_jpg.rf.ce606ef1a3068efa4565d1e10465cb55.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_025_jpg.rf.12ceb35fbaa36bede68d8b63c3d4d11d.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_036_jpg.rf.b381f92e8e8663f851a1a0931faf8921.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_082_jpg.rf.956d0dba1fb4af68232acbd33328c09a.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_097_jpg.rf.6c0051bdacb4f2c280d60bd910828c2f.jpg,mixed
+data/raw/new/Large motor/Motor_Large-motor_067_jpg.rf.f03c43455141ed1fef8fa4ec912efcd8.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_092_jpg.rf.b9883e54b66f0cc6737c4c89068d8d8e.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_024_jpg.rf.bb74d473ba7af9caaeb4ec57f39a5391.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_075_jpg.rf.4a379b160231e4b8359ea92244b838ea.jpg,mixed
+data/raw/new/Large motor/Motor_Large-motor_017_jpg.rf.d633f5e7ad1c73d59acffae90fe61746.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_080_jpg.rf.2eed29affbe2721c427e56e9fb54dcd9.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_096_jpg.rf.e82e6e590f00761cf08a862fa53a0ee1.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_046_jpg.rf.136896f9806e54d2b4a6558ebbfbb9a8.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_058_jpg.rf.1358aeaa0396ee94e39b8b4bfd28cfbf.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_063_jpg.rf.69e80802a462c3f36091c00640312636.jpg,large
+data/raw/new/Large motor/Motor-Large-motor-3_jpg.rf.9f4c28dd616aaecc8a502db270b7e05b.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_026_jpg.rf.c00fcb2b163ca278d593558fee200952.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_040_jpg.rf.d8fc539324cfc91d248a2dd706db71e2.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_0100_jpg.rf.ed62d5a02d4e50b2e25349a9b9e724ba.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_012_jpg.rf.5442ba08ba141e8e31951711226d8506.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_083_jpg.rf.6828e024a46268eb5190ed9c7a93aa90.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_059_jpg.rf.f1e6144bb0d26310c23af340b586858f.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_053_jpg.rf.f6dcf142e9072cdceecf6793f9958288.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_045_jpg.rf.33fb1a7854b9c8fc5c0b524679f94a65.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_068_jpg.rf.fccf00ef5065b13460852b467426f594.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_093_jpg.rf.5c4abf575d5e5735e14dd0eb0dccb8ce.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_020_jpg.rf.ebf9d7e1e144f4a3b88b7f4f7179c092.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_056_jpg.rf.80b3951ece6243ee809ac192853149d1.jpg,mixed
+data/raw/new/Large motor/Motor_Large-motor_022_jpg.rf.1a793aea7ad80314277774584ecb0656.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_089_jpg.rf.de1976a1b2767cceabf17e1601e296d5.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_064_jpg.rf.223673819cc15c6492e086b7bdfb8dc2.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_035_jpg.rf.aabb9d6abd8368ab8c6c038ea22e2711.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_086_jpg.rf.af0062a8ecba745b3f4f1e919380be81.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_057_jpg.rf.17986fd705fb2cefe4ab9acde79a625d.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_052_jpg.rf.54461aede9cbe1aa81a82d0e73034496.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_065_jpg.rf.4f6300e4997780fc27e9bcd33e5fae72.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_015_jpg.rf.3de22c7b87673e74a27b10b7d0be646d.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_044_jpg.rf.8b081031dece6e6a8dec8a6892aac8b9.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_084_jpg.rf.b1c5ea14eae2970d0c78d3552cced348.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_048_jpg.rf.230d80596f3173bd261289947fa21ce4.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_079_jpg.rf.37c5068fd54766859ddc8cbec5c7d31c.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_098_jpg.rf.3fe7b5cbca8d08ea9992eedd2d031ac6.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_061_jpg.rf.3b13f4831cf8e50ec98ee8abfee5c29f.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_073_jpg.rf.ca7b32cddb1552bc0bdc8dcb9e24ba81.jpg,large
+data/raw/new/Large motor/Motor_Large-motor_091_jpg.rf.f8e715720b2259472af0acef050b8467.jpg,large

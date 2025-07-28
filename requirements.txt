@@ -10,3 +10,4 @@ tqdm
 seaborn
 Pillow
 streamlit
+labelme

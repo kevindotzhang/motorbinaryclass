@@ -1,0 +1,49 @@
+MOTOR DETECTION AND PROPORTION ANALYSIS REPORT
+==================================================
+Generated: 2025-07-27 21:09:56
+
+EXECUTIVE SUMMARY
+------------------------------
+• Successfully analyzed 77 images
+• Detected 310 total motors
+• Overall proportion: 80.6% small, 19.4% large
+• 47 images contain mixed motors
+
+TECHNICAL DETAILS
+------------------------------
+Models Used:
+- Binary Classifier: 95% validation accuracy
+- Segmentation Model: 91.9% mAP@50
+- Training Data: 10 images with 55 annotations
+
+DETAILED RESULTS
+------------------------------
+
+    SUMMARY STATISTICS
+    ==============================
+    
+    Total Images Analyzed: 77
+    
+    Image Breakdown:
+    - Mixed (2+ motors): 47 (61.0%)
+    - Single motor: 14 (18.2%)
+    - No motors detected: 16 (20.8%)
+    
+    Motor Detection:
+    - Total motors detected: 310
+    - Small motors: 250 (80.6%)
+    - Large motors: 60 (19.4%)
+    
+    Mixed Images Statistics:
+    - Average motors per mixed image: 6.3
+    - Max motors in single image: 18
+    - Avg small motor proportion: 80.7%
+    - Avg large motor proportion: 19.3%
+    
+
+RECOMMENDATIONS
+------------------------------
+1. The model successfully detects and classifies motors in mixed images
+2. For production use, consider annotating 20-30 more images
+3. The high proportion of small motors (80.7%) in mixed images is consistent
+4. Single motor images can be processed with the binary classifier for efficiency

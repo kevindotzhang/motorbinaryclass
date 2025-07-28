@@ -130,6 +130,10 @@ Epoch 10: Train Loss=0.0054, Val Loss=0.0357, Val Acc=0.9333
 - Hand-drew polygon segmentation masks for singles
 - Manually annotated 10 images of 55 total motors (43 small, 12 large)
 
+Example:
+
+![segmasks + yolo coco](data/mixed_motors/yolo_dataset/images/mixed_0000_detected_detected.jpg)
+
 ### 3. Conversion of Data
 - Converted LabelMe annotations to COCO format for compatibility
 - Executed YOLO segmentation format labels from COCO annotations
